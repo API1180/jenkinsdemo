@@ -37,7 +37,7 @@ public class arraylist {
 		  
 	        arrayList.add("abhi");
 	        arrayList.add("bibi");
-	        arrayList.add("c");
+	        arrayList.add("kaka ji");
 	        arrayList.add("d");
 	       arrayList.add("e");
 	

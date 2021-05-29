@@ -37,7 +37,11 @@ public class arraylist {
 		  
 	        arrayList.add("abhi");
 	        arrayList.add("bibi");
+<<<<<<< HEAD
 	        arrayList.add("caka");
+=======
+	        arrayList.add("kaka ji");
+>>>>>>> 76f7e6dda224637fc6e698eb4290758006151b29
 	        arrayList.add("d");
 	       arrayList.add("e");
 	

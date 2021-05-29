@@ -36,7 +36,7 @@ public class arraylist {
 		  ArrayList<String> arrayList = new ArrayList<>();
 		  
 	        arrayList.add("abhi");
-	        arrayList.add("b");
+	        arrayList.add("bibi");
 	        arrayList.add("c");
 	        arrayList.add("d");
 	       arrayList.add("e");

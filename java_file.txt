@@ -83,7 +83,7 @@ public class arraylist {
 	       hmi.put(2, "Telangana");
 	       hmi.put(3, "Tamilnadu");
 	       hmi.put(4, "Kerala");
-	       hmi.put(5, "Karnataka");
+	       hmi.put(5, "punjab");
 	       
 	       System.out.println("Mappings of HashMap hm1 are : "
                    + hmi);

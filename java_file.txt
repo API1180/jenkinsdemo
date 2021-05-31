@@ -84,6 +84,7 @@ public class arraylist {
 	       hmi.put(3, "Tamilnadu");
 	       hmi.put(4, "Kerala");
 	       hmi.put(5, "punjab");
+	         hmi.put(5, "Kolkata");
 	       
 	       System.out.println("Mappings of HashMap hm1 are : "
                    + hmi);
